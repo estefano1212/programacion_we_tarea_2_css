@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+
+<style>
+h1 {
+    font-size:40px;
+    font-family:Arial,Arial Black,"Arial Narrow";
+   }
+h2 {   
+    font-size:30px;
+    font-family:Arial,Arial rgb(0, 0, 0),"Arial Narrow";
+   }
+h3 {
+    font-size:25px;
+    font-family:Arial,Arial rgb(0, 0, 0),"Arial Narrow";
+   }
+h4 {
+    font-size:25px;
+   }
+h5 {
+    font-size:20px;
+   }
+h6 {
+    font-size:15px;
+   }
+</style>
+
+</head>
+<body>
+<h1>salud y bienestar</h1>
+<h2>medicina veterinaria</h2>
+<h3>veterinaria</h3>
+<h4>consultas</h4>
+<h5>vacunación</h5>
+<h6>estetica</h6>
+</body>
+</html>

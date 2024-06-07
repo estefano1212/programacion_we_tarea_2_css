@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<h1 class="titulo">introduccion de la veterinaria</h1>
+</body>
+</html>
+.titulo {
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:20px;
+    padding-left:20px;
+    background-color:#F2AEAE;
+  }

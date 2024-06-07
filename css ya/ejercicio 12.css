@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+
+<div id="cabecera">
+<h1>la veterinaria en el entorno</h1>
+</div>
+
+<div id="cuerpo">
+<p>Los veterinarios tienen la responsabilidad de salvaguardar el medioambiente, ayudando a paliar los efectos del cambio climático, gestionar los recursos naturales, evitar la aparición de enfermedades emergentes o garantizar la eliminación correcta de los medicamentos.</p>
+<p>evitar la aparición de enfermedades emergentes o garantizar la eliminación correcta de los medicamentos</p>
+<p>rotege la salud de las personas y contribuye a garantizar la salud pública al prevenir enfermedades desde su origen, que afectan a la población mundial.</p>
+</div>
+
+<div id="pie">
+<p>concepto de veterinaria en el entorno</p>
+</div>
+</body>
+</html>
+#cabecera {
+    background-color:#888;
+    color:#ffffff;
+    font-family:Courier;
+  }
+  
+  #cuerpo {
+    background-color:#0F2BF3;
+    font-family:Arial;
+    text-indent:20px;
+  }
+  
+  #pie {
+    background-color:#888;  
+    text-align:center;
+    color:#eedd00;
+  }

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>anime</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+<p>Crunchyroll</p><p>Crunchyroll</p>
+
+
+</body>
+</html>
+body {
+    background-image:url(fondo.jpg);
+    background-repeat:no-repeat;
+    background-attachment:scroll;/*luego probar con fixed*/
+  }

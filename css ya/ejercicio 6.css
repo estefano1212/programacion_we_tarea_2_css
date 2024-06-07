@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+<style>
+p {
+  color:#005500;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+<p>SQL, Structure Query Language (Lenguaje de Consulta Estructurado) es un 
+lenguaje de programacion para trabajar con base de datos relacionales como MySQL,
+ Oracle, etc.</p>
+
+<p>MySQL es un interpretador de SQL, es un servidor de base de datos.</p>
+
+<p>color:MySQL permite crear base de datos y tablas, insertar datos, modificarlos,
+ eliminarlos, ordenarlos, hacer consultas y realizar muchas operaciones, etc.,
+ resumiendo: administrar bases de datos.</p>
+</body>
+</html>

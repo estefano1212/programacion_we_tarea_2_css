@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<h1 class="subrayado">servicios veterinarios</h1>
+<p>
+en estos servicios se ealizan varias actividades <span class="subrayado">
+medicina</span> y <span class="subrayado">general</span>.
+ Ciencia médica que se dedica a prevenir, diagnosticar y curar las enfermedades de animales no humanos. Así como también heridas y lesiones provocadas por diversos factores. <span class="subrayado">vacunaciones</span>.
+</p>
+<p>
+La medicina veterinaria no es fácil en su ámbito en general son  
+<span class="tachado">especiales</span> complejas. 
+</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<p class="pregunta">¿de estos tres materia cual es la mas sencilla?</p>
+<p class="respuesta">química</p>
+<p class="respuesta">anotomía</p>
+<p class="respuesta">biología</p>
+
+<p class="pregunta">¿Cuáles de estos animales son ovíparos?</p>
+<p class="respuesta">tortuga</p>
+<p class="respuesta">pato</p>
+<p class="respuesta">serpiente</p>
+
+<p class="pregunta">¿Qué rama ay en la veterinaria?</p>
+<p class="respuesta">bioquímico</p>
+<p class="respuesta">cirugía</p>
+<p class="respuesta">farmacéutico</p>
+</body>
+</html>
+.subrayado {
+    color:#00aa00;
+    text-decoration:underline;
+  }
+  .tachado {
+    color:#050505;
+    text-decoration:line-through;
+  }
+  .pregunta {
+    font-family:verdana;
+    font-size:14px;
+    font-style:italic;
+    color:#0000aa;
+  }
+  .respuesta {
+    font-family:verdana;
+    font-size:12px;
+    font-style:normal;
+    text-align:justify;
+    color:#555555;
+  }

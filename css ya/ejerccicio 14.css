@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<h1 class="titulosecundario">Happy pet´sdog.</h1>
+</body>
+</html>
+.titulosecundario{
+    background-color:#FA5502;
+    text-align:center;
+    font-family:verdana;
+    font-size:40px;
+  
+    border-top-width:2px;
+    border-bottom-width:2px;
+    border-right-width:0px;
+    border-left-width:0px;
+  
+    border-top-style:dotted;
+    border-bottom-style:dotted;
+  
+    border-top-color:#702905;
+    border-bottom-color:#7BE808;
+  }

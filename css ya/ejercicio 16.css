@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<h1>servicios veterinarios</h1>
+<h2>categorias del servicio</h2>
+</body>
+</html>
+h1 {
+    margin:5px;
+    background-color:#eeeeee;
+  }
+  
+  h2 {
+    margin:5px;
+    background-color:#eeeeee;
+  }

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>anime</title>
+  <meta charset="UTF-8">
+  <link rel="StyleSheet" href="estilos.css" type="text/css">
+</head>
+<body>
+<h1>black clover</h1>
+<h2>jutzu kaisen</h2>
+<h3>nanatzu no taiza</h3>
+</body>
+</html>
+h1 {
+    font:40px Helvetica;
+  }
+  h2 {
+    font:30px Arial;
+  }
+  h3 {
+    font:20px Courier;
+  }
